@@ -22,3 +22,5 @@ Sensor: CMOS VGA 640x480 (VGA webcam chip)
 Connection to computer: USB
 
 Software development environment: Processing3 with G4P GUI builder, grafica, and Video libraries
+
+3D printed parts designed with FreeCAD.
